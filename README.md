@@ -11,6 +11,8 @@ Mallow’s <img src="http://latex2png.com/pngs/9f3d4296f92bcac8fd4935bc1a06ddbb.
 
 <img src="http://latex2png.com/pngs/6b722798834f0df647104489ee2ab89d.png" width="200"/>
 
+#### Task
+
 Regression model is
 
 <img src="http://latex2png.com/pngs/6a16c6466cb7d4ff8c0fc4c38339ca6c.png" width="200"/>
