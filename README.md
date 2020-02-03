@@ -3,7 +3,7 @@ This repository presents exciting projects using machine learning or interesting
 
 ## Model Selection
 
-### Akaike information criterion (AIC)
+### Akaike information criterion (AIC) and Mallow’s C_p
 
 The Akaike information criterion is an estimator of out-of-sample prediction error and thereby relative quality of statistical models for a given set of data. Given a collection of models for the data, AIC estimates the quality of each model, relative to each of the other models. 
 
