@@ -23,4 +23,10 @@ and <img src="http://latex2png.com/pngs/a585fca649d15ba28f30dc4b15455a2d.png" wi
 
 Prove that the model with highest Akaike information criterion is the model with smallest Mallow's <img src="http://latex2png.com/pngs/9f3d4296f92bcac8fd4935bc1a06ddbb.png" width="20"/>
 
+## Equivalence of Neural Networks with Different Activation Functions
 
+A two-layer network function of the form:
+
+<img src="http://latex2png.com/pngs/863465539102c17d6cdc8501748d4670.png" width="200"/>
+
+in which the nonlinear activation functions are logistic sigmoid functions. There exists an equivalent network, which computes exactly the same function, but with hidden unit activation function given by hyperbolic tangent <img src="http://latex2png.com/pngs/2e3607a9d9d4b906dfceffb10c250bf2.png" width="20"/>
